@@ -1,4 +1,6 @@
-# Deploy `json-server` to `{{ free hosting site }}`
+The sister repo to this database is found at <a href="https://github.com/nch66862/serve-still-more">Serve Still More</a>
+
+# Deploy `json-server`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
